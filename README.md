@@ -4,7 +4,7 @@
 
 ### Background
 
-Steve, our client would like to help his parents by researching green energy stocks for his parents to invest in. He created an excel file that contains the data, he wants us to analyze using VBA.  
+Steve, our client would like to help his parents by researching green energy stocks for them to invest in. He created an excel file that contains the data, he wants us to analyze using VBA.  
 
 ### Purpose
 
